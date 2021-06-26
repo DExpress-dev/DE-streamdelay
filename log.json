@@ -1,0 +1,12 @@
+{
+    "LogLevel" : "warning",
+
+    "FileWriter" : {
+        "LogPath" : "log-%Y%M%D.log",
+        "On": true
+    },
+
+    "ConsoleWriter" : {
+        "On" :true 
+    }
+}
